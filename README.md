@@ -1,9 +1,9 @@
 # build rusty_v8
 <https://github.com/fm-elpac/v8-src/tree/v8-0.75>
 
-![build v8-0.75](https://github.com/fm-elpac/v8-src/actions/workflows/v8-0.75.yml/badge.svg)
+![build v8-0.82](https://github.com/fm-elpac/v8-src/actions/workflows/v8-0.75.yml/badge.svg)
 
-+ [`rusty_v8 0.75`](https://crates.io/crates/v8)
++ [`rusty_v8 0.82`](https://crates.io/crates/v8)
 
 
 ## 说明
